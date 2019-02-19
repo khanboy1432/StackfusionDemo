@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Stackfusion Demo</string>
+
+    //For facebook login
+    <string name="facebook_app_id">251071182494587</string>
+    <string name="fb_login_protocol_scheme">fb251071182494587</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="welcome">WELCOME</string>
+    <string name="user_details">User Details</string>
+    <string name="first_name">First Name :</string>
+    <string name="log_out">Log Out</string>
+
+</resources>
